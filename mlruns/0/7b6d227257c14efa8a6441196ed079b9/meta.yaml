@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/amankumar/ai/gen-ai-exp/mlops_project/mlruns/0/7b6d227257c14efa8a6441196ed079b9/artifacts
+end_time: 1737322603849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b6d227257c14efa8a6441196ed079b9
+run_name: useful-chimp-51
+run_uuid: 7b6d227257c14efa8a6441196ed079b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737322601210
+status: 3
+tags: []
+user_id: amankumar
